@@ -40,55 +40,85 @@ Answer:A Java object is a member (also called an instance) of a Java class. Each
 
 
 Why is the main() method static?
-Answer:
+Answer: When java runtime starts it is static there is no object of the class present that is why the main method has to be static so that JVM can load the class into memory and call the main method.
 
 Which class is the superclass of all classes?
 Answer:The Object class is the superclass of all other classes in Java and a part of the built-in java. lang package. If a parent class isn't specified using the extends keyword, the class will inherit from the Object class
 
 What is difference between path and classpath variables?
-Answer:
+Answer:Path it is used by the operating system to find the executable files (.exe).
+       ClassPath   it is used by Application ClassLoader to locate the .class file.
+       PATH is used by CMD prompt to find binary files. CLASSPATH is used by the compiler and JVM to find library files.
+
+
 
 What is the difference between an Interface and Abstract class?
-Answer:
+Answer:1) Abstract class can have abstract and non-abstract methods.	Interface can have only abstract methods. Since Java 8, it can have default and static methods also.
+       2) Abstract class doesn't support multiple inheritance. Interface supports multiple inheritance.
+       3) Abstract class can have final, non-final, static and non-static variables. Interface has only static and final variables.
+       4) Abstract class can provide the implementation of interface.	Interface can't provide the implementation of abstract class.
+       5) The abstract keyword is used to declare abstract class.	The interface keyword is used to declare interface.
+       6) An abstract class can extend another Java class and implement multiple Java interfaces.	An interface can extend another Java interface only.
+       7) An abstract class can be extended using keyword "extends".	An interface can be implemented using keyword "implements".
+       8) A Java abstract class can have class members like private, protected, etc.	Members of a Java interface are public by default.
+
 
 Can you make an Object from an Interface and Abstract class? If yes or no, how would you do it?
-Answer:
+Answer:No, we can't create an object of an abstract class. But we can create a reference variable of an abstract class.
 
 What is Access Modifier?
-Answer:
+Answer: Access modifiers in Java helps to restrict the scope of a class, constructor, variable, method, or data member. There are four types of access modifiers  public, protected, default, and private.
+
 
 What is OOP? Define each OOP concept.
-Answer:
+Answer:Object-Oriented Programming System (OOPs) is a programming concept that works on the principles of abstraction, encapsulation, inheritance, and polymorphism. It allows users to create objects they want and create methods to handle those objects. The basic concept of OOPs is to create objects, re-use them throughout the program, and manipulate these objects to get results. There are 4 types of OOP’S: Abstraction, encapsulation, inheritance, and polymorphism
+       Abstraction is one of the OOP Concepts in Java which is an act of representing essential features without including background details. It is a technique of creating a new data type that is suited for a specific application.
+       Encapsulation is one of the best Java OOPs concepts .Encapsulation is data hiding using getters and setters . In this OOPs concept, the variables of a class are always hidden from other classes. It can only be accessed using the methods of their current class.
+       Inheritance is one of the Basic Concepts of OOPs in which one object acquires the properties and behaviors of the parent object. It’s creating a parent-child relationship between two classes. It offers robust and natural mechanism for organizing and structure of any software.
+       Polymorphism refers to one of the OOPs concepts in java. Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance
+
 
 What is Java Package and which package is imported by default?
-Answer:
+Answer:In Java, the package is the collection of Java classes and interfaces. Java compiler imports java.lang package internally by default.
+
+
 
 What is an API? List some API's that you have used so far.
-Answer:
+Answer:Application Programming Interface Interface (API) ia a software interface that allows tow applications to interact with each other without any user intervention.
+
 
 Does java support multiple inheritance? Why or why not?
-Answer:
+Answer:Java doesn't support multiple inheritances in classes because it can lead to diamond problem and rather than providing some complex way to solve it, there are better ways through which we can achieve the same result as multiple inheritances.
+
+
 
 What is method overloading? List all of the different ways to overload.
-Answer:
+Answer:When a class have multiple methods by same name but different parameters, i.e. known as method overloading.. Method overloading can be achieved by changing the number of parameters in a method. By changing the order of parameters in a method. By using different data types for parameters.
+
 
 Explain exceptions in java and how to handle them.
-Answer:
+Answer:An Exeption in Java is considered an unexpected event that can disrupt the program's normal flow. These events can be fixed through the process of Exception Handling. The try-catch is the simplest method of handling exceptions. Put the code you want to run in the try block, and any Java exceptions that the code throws are caught by one or more catch blocks. This method will catch any type of Java exceptions that get thrown. This is the simplest mechanism for handling exceptions.
+
 
 What is static keyword? When and how do we use it?
-Answer:
+Answer:Static keyword in Java is used to share the same variable or method of a given class. The users can apply static keywords with variables, methods, blocks, and nested classes. The static keyword belongs to the class than an instance of the class. The static keyword is used for a constant variable or a method that is the same for every instance of a class.
+
 
 What is final keyword? When and how do we use it?
-Answer:
+Answer:Java final keyword is a non-access specifier that is used to restrict a class, variable, and method. If we initialize a variable with the final keyword, then we cannot modify its value. If we declare a method as final, then it cannot be overridden by any subclasses. The final keyword is useful when you want a variable to always store the same value,
+
 
 Explain the difference between final, finally and finalize?
-Answer:
+Answer:Each of these keywords has a different functionality. The basic difference between final, finally and finalize is that the final is an access modifier, finally is the block in Exception Handling and finalize is the method of object class.
+
+
 
 What is a constructor?
-Answer:
+Answer:A constructor in Java is a special method that is used to initialize objects. The constructor is called when an object of a class is created. It can be used to set initial values for object attributes. The constructor name must match thee class name , and it cannot have a return type like void
+
 
 Can we have multiple constructors in a class?
-Answer:
+Answer:Yes a class can have multiple constructors.
 
 If we don't have a constructor declared, what is called during the object creation?
 Answer:
@@ -188,8 +218,7 @@ Answer:
 
 What are the dependencies for this project?
 Answer:
-
-What is dependency injection in Java?
+ What is
 Answer:
 
 Explain what static binding and dynamic binding is?
