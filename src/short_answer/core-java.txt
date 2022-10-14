@@ -152,7 +152,8 @@ What is the difference between JDK and JVM?
 Answer:The JVM is an abbreviation for Java Virtual Machine. The JDK (Java Development Kit) is a software development kit that develops applications in Java.
 
 What is the difference between JVM and JRE?
-Answer:
+Answer:JRE identifies all the helpful class libraries needed for execution, while JVM is a subclass of JRE that decodes the bytecode into machine language and other minor tasks.
+
 
 Explain the difference between compile-time and run-time?
 Answer:
