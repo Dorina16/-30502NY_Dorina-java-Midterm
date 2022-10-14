@@ -232,7 +232,8 @@ Answer:Synchronization in Java is the capability to control the access of multip
 
 
 What is a Framework?
-Answer:
+Answer:Java Framework is a collection of predefined classes and functions that is used to process input, manage hardware devices interacts with system software. It acts like a skeleton that helps the developer to develop an application by writing their own code.
+
 
 What are the testing Frameworks available in Java?
 Answer:
