@@ -188,7 +188,8 @@ Answer:An Iterator is an object that can be used to loop through collections, li
 
 
 Which one will take more memory: an int or Integer? Why?
-Answer:
+Answer: int is a primitive data type and takes 32 bits(4 bytes) to store. On other hand Integer is an object which takes 128 bits (16 bytes) to store its int value.
+
 
 Why are Strings considered to be immutable in Java?
 Answer:
