@@ -192,7 +192,8 @@ Answer: int is a primitive data type and takes 32 bits(4 bytes) to store. On oth
 
 
 Why are Strings considered to be immutable in Java?
-Answer:
+Answer:The String is immutable in Java because of the security, synchronization and concurrency, caching, and class loading. The reason of making string final is to destroy the immutability and to not allow others to extend it. The String objects are cached in the String pool, and it makes the String immutable.
+
 
 What is constructor chaining in Java?
 Answer:
