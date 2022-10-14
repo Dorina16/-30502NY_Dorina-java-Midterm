@@ -69,7 +69,10 @@ What is DFS and BFS?
 Answer:
 
 What is Recursion?
-Answer:
+Answer:The process in which a function calls itself directly or indirectly is called recursion.
+       Recursion is an technique
+       with the help of which we can reduce the length of our code and make it easier to read and write.
+
 
 What are linear and non-linear data Structures?
 Answer:A linear data structure includes arrays, linked lists,queues and stacks.
