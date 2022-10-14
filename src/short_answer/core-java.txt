@@ -156,7 +156,9 @@ Answer:JRE identifies all the helpful class libraries needed for execution, whil
 
 
 Explain the difference between compile-time and run-time?
-Answer:
+Answer:In Compile time Polymorphism, the call is resolved by the compiler. In Run time Polymorphism, the call is not resolved by the compiler. Compile time  is also known as Static binding, Early binding and overloading as well. Run time
+       is also known as Dynamic binding, Late binding and overriding as well.
+
 
 What is heap?
 Answer:The Heap is a memory used by programing languages to store global variables. By default, all global variable are stored in heap memory space. It supports dynamic memory allocation. The heap is not managed automatically for you and is not as tightly managed by the CPU. It is more like a free – floating region of memory.
