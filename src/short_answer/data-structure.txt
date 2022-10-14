@@ -63,7 +63,9 @@ What is ArrayIndexOutOfBoundsException in java? When does it occur?
 Answer:
 
 What are the different ways of copying an array into another array?
-Answer:
+Answer:Iterating each element of the given original array and copy one element at a time.
+              Using clone() method.  Using arraycopy() method.  Using copyOf() method of Arrays class.
+
 
 What is DFS and BFS?
 Answer:DFS is an algorithm for traversing or searching tree or graph data structures.
