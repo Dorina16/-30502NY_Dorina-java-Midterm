@@ -236,7 +236,8 @@ Answer:Java Framework is a collection of predefined classes and functions that i
 
 
 What are the testing Frameworks available in Java?
-Answer:
+Answer:•	Selenium. JUnit. TestNG
+
 
 What are jUnit and testNG?
 Answer:JUnit is an open-source framework used to trigger and write tests. TestNG is a Java-based framework that is an upgraded option for running tests. Parallel test Runs. JUnit does not support to run parallel tests. TestNG can run parallel tests.
@@ -244,7 +245,7 @@ Answer:JUnit is an open-source framework used to trigger and write tests. TestNG
 
 What are the dependencies for this project?
 Answer:
- What is
+ What i
 Answer:
 
 Explain what static binding and dynamic binding is?
