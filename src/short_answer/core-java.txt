@@ -163,7 +163,7 @@ Answer:The Heap is a memory used by programing languages to store global variabl
 
 
 How does Java manage its memory?
-Answer:
+Answer:In Java, memory management is the process of allocation and de-allocation of objects, called Memory management. Java does memory management automatically. Java uses an automatic memory management system called a garbage collector.
 
 What is the difference between String, StringBuffer and StringBuilder?
 Answer:
