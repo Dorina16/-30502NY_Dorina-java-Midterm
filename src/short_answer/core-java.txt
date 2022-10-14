@@ -180,7 +180,8 @@ Answer:While loop checks the condition first and then executes the statement(s),
 
 
 What is Enum?
-Answer:
+Answer:An enum is a special "class" that represents a group of constants (unchangeable variables, like final variables). To create an enum , we use the enum keyword ( instead of class or interface), and separate the constants with a comma.
+
 
 What is Iterator?
 Answer:
