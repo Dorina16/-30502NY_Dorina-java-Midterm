@@ -217,7 +217,8 @@ Can you guarantee the garbage collection process?
 Answer:
 
 What is the difference between stack and heap in Java?
-Answer:
+Answer:Stack access local variable only while Heap allows you to access variables globally Stack variables can be resized whereas Heap variables can be resized. Stack memory is allocated in a contiguous block where Heap memory is allocated in any random order.
+
 
 What is reflection in Java and why is it useful?
 Answer:
