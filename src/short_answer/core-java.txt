@@ -239,7 +239,8 @@ What are the testing Frameworks available in Java?
 Answer:
 
 What are jUnit and testNG?
-Answer:
+Answer:JUnit is an open-source framework used to trigger and write tests. TestNG is a Java-based framework that is an upgraded option for running tests. Parallel test Runs. JUnit does not support to run parallel tests. TestNG can run parallel tests.
+
 
 What are the dependencies for this project?
 Answer:
