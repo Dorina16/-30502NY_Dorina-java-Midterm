@@ -207,7 +207,8 @@ Answer:The parallel collector is also known as throughput collector, it's a gene
 
 
 What does JIT stands for?
-Answer:
+Answer:JIT is a part of the JVM that optimizes the performance of the application. JIT stands for Java-In-Time Compiler. The JIT compilation is also known as also known as dynamic compilation
+
 
 Explain the process of Java garbage collection?
 Answer:
