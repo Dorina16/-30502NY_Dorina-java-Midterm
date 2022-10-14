@@ -136,10 +136,13 @@ Answer:JVM(Java Virtual Machine) acts as a run-time engine to run Java applicati
 
 
 Is JVM platform independent?
-Answer:
+Answer:Java is platform-independent but JVM is platform dependent
+       In Java, the main point here is that the JVM depends on the operating system – so if you are running Mac OS X you will have a different JVM than if you are running Windows or some other operating system.
+
 
 What version of Java are you using?
-Answer:
+Answer:The Java version can be found in the Java Control Panel. Under the General tab in the Java Control Panel, the version is available through the About section. A dialog appears (after clicking About) showing the Java version.
+
 
 What does JAR stand for?
 Answer:
