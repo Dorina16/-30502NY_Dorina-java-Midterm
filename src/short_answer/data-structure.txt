@@ -14,7 +14,8 @@ Answer:An array is a container object that holds a fixed number of values of a s
 
 
 What is the difference between Array and ArrayList?
-Answer:
+Answer:Array is a fixed length data structure whereas ArrayList is a variable length Collection class. We cannot change length of array once created in Java but ArrayList can be changed. We cannot store primitives in ArrayList, it can only store objects. But array can contain both primitives and objects in Java.
+
 
 What is a LinkedList?
 Answer:
