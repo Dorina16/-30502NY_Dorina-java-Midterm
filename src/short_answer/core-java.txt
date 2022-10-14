@@ -176,7 +176,8 @@ What is Serialization and Deserialization?
 Answer:Serialization is a mechanism of converting the state of an object into a byte stream. Deserialization is the reverse process where the byte stream is used to recreate the actual Java object in memory. This mechanism is used to persist the object.
 
 Explain the difference between while and do while loops.
-Answer:
+Answer:While loop checks the condition first and then executes the statement(s), whereas do while loop will execute the statement(s) at least once, then the condition is checked. While loop is entry controlled loop, whereas do while is exit controlled loop
+
 
 What is Enum?
 Answer:
