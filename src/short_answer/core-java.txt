@@ -84,7 +84,7 @@ Answer:In Java, the package is the collection of Java classes and interfaces. Ja
 
 
 What is an API? List some API's that you have used so far.
-Answer:Application Programming Interface Interface (API) ia a software interface that allows tow applications to interact with each other without any user intervention.
+Answer:Application Programming Interface (API) ia a software interface that allows tow applications to interact with each other without any user intervention.
 
 
 Does java support multiple inheritance? Why or why not?
@@ -236,7 +236,7 @@ Answer:Java Framework is a collection of predefined classes and functions that i
 
 
 What are the testing Frameworks available in Java?
-Answer:•	Selenium. JUnit. TestNG
+Answer:•Selenium. JUnit. TestNG
 
 
 What are jUnit and testNG?
@@ -245,7 +245,7 @@ Answer:JUnit is an open-source framework used to trigger and write tests. TestNG
 
 What are the dependencies for this project?
 Answer:
- What i
+ What is
 Answer:
 
 Explain what static binding and dynamic binding is?
