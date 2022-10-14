@@ -1,7 +1,7 @@
 ***ANSWER ALL OF THE QUESTIONS BELOW***
 
 Why do we need data structure?
-Answer:
+Answer:Data structures are useful in storing and organizing the data in an efficient manner.
 
 What are the various operations that can be performed on different data structures?
 Answer:
