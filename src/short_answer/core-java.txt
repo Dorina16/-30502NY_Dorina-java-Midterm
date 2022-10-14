@@ -145,10 +145,11 @@ Answer:The Java version can be found in the Java Control Panel. Under the Genera
 
 
 What does JAR stand for?
-Answer:
+Answer:A Jar (Java Archive) is a package file format typically used to aggregate many Java class files and associated metadata and resources (text, images, etc.) into one file to distribute application software or libraries on the Java platform.
+
 
 What is the difference between JDK and JVM?
-Answer:
+Answer:The JVM is an abbreviation for Java Virtual Machine. The JDK (Java Development Kit) is a software development kit that develops applications in Java.
 
 What is the difference between JVM and JRE?
 Answer:
