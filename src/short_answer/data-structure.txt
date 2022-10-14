@@ -26,7 +26,9 @@ How is an Array different from LinkedList?
 Answer:An array is a collection of elements of a similar data type. A linked list is a collection of objects known as a node where node consists of two parts, data and address. Array elements store in a contiguous memory location. Linked list elements can be stored anywhere in the memory or randomly stored.
 
 What is a Queue?
-Answer:
+Answer:Queue is a linear ordered data structure that follows FIFO (First In, First Out) ordering of elements. This means that the element inserted first in the queue will be the first element to be removed. The queue is implemented as an interface that inherits the Collection interface.
+
+
 
 What is a Stack (referring to data structures)?
 Answer:
