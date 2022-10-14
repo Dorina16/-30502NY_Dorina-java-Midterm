@@ -196,7 +196,9 @@ Answer:The String is immutable in Java because of the security, synchronization 
 
 
 What is constructor chaining in Java?
-Answer:
+Answer:Constructor chaining is the process of calling one constructor from another constructor with respect to current object.
+       One of the main use of constructor chaining is to avoid duplicate codes while having multiple constructor (by means of constructor overloading) and make code more readable.
+
 
 The difference between Serial and Parallel Garbage Collector?
 Answer:
