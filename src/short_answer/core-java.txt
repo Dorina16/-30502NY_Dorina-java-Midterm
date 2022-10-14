@@ -173,9 +173,9 @@ What is Singleton class?
 Answer:In object-oriented programming, a singleton class is a class that can have only one object (an instance of the class) at a time. After the first time, if we try to instantiate the Singleton class, the new variable also points to the first instance created. So whatever modifications we do to any variable inside the class through any instance, affects the variable of the single instance created and is visible if we access that variable through any variable of that class type define
 
 What is Serialization and Deserialization?
-Answer:
+Answer:Serialization is a mechanism of converting the state of an object into a byte stream. Deserialization is the reverse process where the byte stream is used to recreate the actual Java object in memory. This mechanism is used to persist the object.
 
-Explain the difference between While and Do..While loops?
+Explain the difference between while and do while loops.
 Answer:
 
 What is Enum?
