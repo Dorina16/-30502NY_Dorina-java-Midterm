@@ -211,7 +211,7 @@ Answer:JIT is a part of the JVM that optimizes the performance of the applicatio
 
 
 Explain the process of Java garbage collection?
-Answer:
+Answer:Garbage Collection in Java is a process by which the programs perform memory management automatically. The Garbage Collector(GC) finds the unused objects and deletes them to reclaim the memory.
 
 Can you guarantee the garbage collection process?
 Answer:
