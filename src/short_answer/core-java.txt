@@ -224,7 +224,8 @@ What is reflection in Java and why is it useful?
 Answer:Reflection is a feature in the Java programming language. It allows an executing Java program to examine or "introspect" upon itself and manipulate internal properties of the program. For example, it's possible for a Java class to obtain the names of all its members and display them.
 
 What is multithreading in Java?
-Answer:
+Answer:Multithreading in Java is a process of executing two or more threads simultaneously to maximum utilization of CPU. Multithreaded applications execute two or more threads run concurrently. Hence, it is also known as Concurrency in Java. Each thread runs parallel to each other. Multiple threads don’t allocate separate memory area; hence they save memory. Also, context switching between threads takes less time.
+
 
 What is synchronization in Java?
 Answer:
