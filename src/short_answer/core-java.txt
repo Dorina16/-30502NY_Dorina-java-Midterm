@@ -201,7 +201,10 @@ Answer:Constructor chaining is the process of calling one constructor from anoth
 
 
 The difference between Serial and Parallel Garbage Collector?
-Answer:
+Answer:The parallel collector is also known as throughput collector, it's a generational collector similar to the serial collector. The primary difference between the serial and parallel collectors is that the parallel collector has multiple threads that are used to speed up garbage collection
+
+
+
 
 What does JIT stands for?
 Answer:
