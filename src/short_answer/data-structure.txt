@@ -72,7 +72,9 @@ What is Recursion?
 Answer:
 
 What are linear and non-linear data Structures?
-Answer:
+Answer:A linear data structure includes arrays, linked lists,queues and stacks.
+       A non-linear data structure is made up of trees and graphs.
+
 
 Outline different sorting algorithms and their time complexities:
 
