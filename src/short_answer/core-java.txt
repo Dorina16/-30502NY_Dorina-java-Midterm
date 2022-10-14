@@ -159,8 +159,9 @@ Explain the difference between compile-time and run-time?
 Answer:
 
 What is heap?
-Answer:
-you are all set. good night
+Answer:The Heap is a memory used by programing languages to store global variables. By default, all global variable are stored in heap memory space. It supports dynamic memory allocation. The heap is not managed automatically for you and is not as tightly managed by the CPU. It is more like a free – floating region of memory.
+
+
 How does Java manage its memory?
 Answer:
 
