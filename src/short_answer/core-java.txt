@@ -213,6 +213,7 @@ Answer:JIT is a part of the JVM that optimizes the performance of the applicatio
 Explain the process of Java garbage collection?
 Answer:Garbage Collection in Java is a process by which the programs perform memory management automatically. The Garbage Collector(GC) finds the unused objects and deletes them to reclaim the memory.
 
+
 Can you guarantee the garbage collection process?
 Answer:
 
@@ -245,8 +246,8 @@ Answer:JUnit is an open-source framework used to trigger and write tests. TestNG
 
 What are the dependencies for this project?
 Answer:
- What is
-Answer:
+ What is dependency injection in java?
+Answer:Dependency injection enables you to turn regular Java classes into managed objects and to inject them into any other managed object. Using dependency injection, your code can declare dependencies on any managed object.
 
 
 Explain what static binding and dynamic binding is?
