@@ -62,7 +62,12 @@ Answer:A graph data structure is a collection of nodes that have data and are co
 
 
 What is the difference between the HashTable and HashMap?
-Answer:
+Answer:HashMap is non-synchronized. It is not thread-safe and
+       can’t be shared between many threads without proper synchronization code
+        Hashtable is synchronized. It is thread-safe and can be shared with many threads.
+        HashMap allows one null key and multiple null values whereas Hashtable doesn’t allow any null key or value.
+        HashMap is generally preferred over HashTable if thread synchronization is not needed.
+
 
 How do HashMaps work in Java? How do they store values, and when are they useful?
 Answer:HashMap is a part of the Java collection framework. It uses a technique called Hashing.
