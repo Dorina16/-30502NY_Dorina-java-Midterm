@@ -48,7 +48,13 @@ What is the worst case to search an element from an array?
 Answer:
 
 Describe what a tree data structure is?
-Answer:
+Answer:A tree is non-linear and a hierarchical data structure
+       consisting of a collection of nodes such that each node of the tree stores
+       a value and a list of references to other nodes (the 'children').
+       This data structure is a specialized method to organize
+       and store data in the computer to be used more effectively
+
+
 
 Describe what a graph data structure is?
 Answer:
