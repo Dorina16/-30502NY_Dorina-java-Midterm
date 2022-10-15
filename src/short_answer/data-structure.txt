@@ -57,7 +57,9 @@ Answer:A tree is non-linear and a hierarchical data structure
 
 
 Describe what a graph data structure is?
-Answer:
+Answer:A graph data structure is a collection of nodes that have data and are connected to other nodes.
+
+
 
 What is the difference between the HashTable and HashMap?
 Answer:
